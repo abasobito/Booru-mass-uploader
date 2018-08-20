@@ -215,7 +215,7 @@ document.documentElement.innerHTML='\
 \
 	<div id="tagsWr">\
 		Tag list (separate with spaces):\
-		<input type="text" id="tags" style="width: 77%"/>\
+		<input type="text" id="tags" style="width: 77%" charset=UTF-8 />\
 	</div>\
 	<div id="mytags" style="display:none;">\
 		<div style="float:left; ">Your tags:</div>\
